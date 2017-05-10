@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Programming 1 Portfolio
+## Morgan Hurley 2017
 
 You can use the [editor on GitHub](https://github.com/MorganHurley8/Programming1Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
