@@ -2,9 +2,9 @@
 ## Morgan Hurley 2017
 
 Inline-style: 
-![alt text]("Logo Title Text 1")
+![alt text](https://github.com/MorganHurley8/Programming1Portfolio/Screen Shot 2017-05-10 at 11.46.26 AM.png "Logo title text 1")
 
-You can use the [editor on GitHub](https://github.com/MorganHurley8/Programming1Portfolio/Screen Shot 2017-05-10 at 11.46.26 AM.png "Logo title text 1) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub]() to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
