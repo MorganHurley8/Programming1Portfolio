@@ -2,7 +2,7 @@
 ## Morgan Hurley 2017
 
 Inline-style: 
-![alt text](https://github.com/MorganHurley8/Programming1Portfolio/Screen Shot 2017-05-10 at 11.46.26 AM.png "Logo title text 1")
+![alt text](https://github.com/MorganHurley8/Programming1Portfolio/pic.png "Logo title text 1")
 
 You can use the [editor on GitHub]() to maintain and preview the content for your website in Markdown files.
 
