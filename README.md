@@ -4,7 +4,7 @@
  
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic.png "Logo title text 1")
 
-Inline-style: 
+ 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic2.png "Logo title text 1")
 
 You can use the [editor on GitHub]() to maintain and preview the content for your website in Markdown files.
