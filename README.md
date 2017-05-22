@@ -2,7 +2,7 @@
 # Morgan Hurley 2017
 ### Jeopardy Game Project
 For our final project in the 2016-17 school year my group decided to make a Jeopardy Game. 
-##### Other Group Members: Sarah Wallgren and Katya Pogodaeva
+###### Other Group Members: Sarah Wallgren and Katya Pogodaeva
 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic7.png "Logo title text 1")
 As a group, we decided to implement 9 categories of questions into our trivia game.  
