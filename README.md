@@ -1,12 +1,13 @@
 
 # Morgan Hurley 2017
-## Jeopardy Game Project
-#### For our final project in the 2016-17 school year we decided to make a Jeopardy Game 
- 
+### Jeopardy Game Project
+###### For our final project in the 2016-17 school year my group decided to make a Jeopardy Game. 
+Other Group Members: Sarah Wallgren and Katya Pogodaeva
+
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic7.png "Logo title text 1")
-
+As a group, we decided to implement 9 categories of questions into our trivia game 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic.png "Logo title text 1")
-
+Each member of our group created 10 questions for the categories they were assigned. After that,the group voted on which questions we would use in our game. I created the Art, Music, and Science questions. 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic2.png "Logo title text 1")
 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic3.png "Logo title text 1")
