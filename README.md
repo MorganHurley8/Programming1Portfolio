@@ -1,13 +1,21 @@
 
 # Morgan Hurley 2017
+
+
 ## Jeopardy Game Project
  
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic7.png "Logo title text 1")
+
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic.png "Logo title text 1")
+
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic2.png "Logo title text 1")
+
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic3.png "Logo title text 1")
+
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic4.png "Logo title text 1")
+
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic5.png "Logo title text 1")
+
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic6.png "Logo title text 1")
 
  
