@@ -1,7 +1,7 @@
 # Programming 1 Portfolio
 ## Morgan Hurley 2017
 
-Inline-style: 
+ 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic.png "Logo title text 1")
 
 Inline-style: 
