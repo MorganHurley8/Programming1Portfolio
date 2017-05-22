@@ -5,13 +5,13 @@ For our final project in the 2016-17 school year my group decided to make a Jeop
 ###### Other Group Members: Sarah Wallgren and Katya Pogodaeva
 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic7.png "Logo title text 1")
-As a group, we decided to implement 9 categories of questions into our trivia game.  
+As a group, we decided to implement 9 categories of 5 questions into our trivia game.  
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic.png "Logo title text 1")
-Each member of our group created 10 questions for the categories they were assigned. After that,the group voted on which questions we would use in our game. I created the Art, Music, and Science questions. Each question is its own picture. One answers the questions in our game by clicking on seperate graphics for each possible answer. If the player answers correctly it will bring up another graphic informing them that they have selected the right answer and add 5 to 10 points to their score, if not the program just brings up an incorrect answer graphic. Our game cycles through all the questions in a category before letting a player choose a new category.  
+Each member of our group created 10 questions for the categories they were assigned. After that,the group voted on which questions we would use in our game. I created the Art, Music, and Science questions. Each question is its own picture. One answers the questions in our game by clicking on seperate graphics for each possible answer. If the player answers correctly it will bring up another graphic informing them that they have selected the right answer and adds 5 to 10 points to their score, if not the program just brings up an incorrect answer graphic. Our game cycles through all the questions in a category before letting a player choose a new category.  
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic2.png "Logo title text 1")
 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic3.png "Logo title text 1")
-We all contributed to the code
+We all contributed to the code. Each person wrote the code for the parts concerning their own categories. Some parts we all wrote together.
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic4.png "Logo title text 1")
 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic5.png "Logo title text 1")
