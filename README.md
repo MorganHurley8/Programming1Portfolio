@@ -1,8 +1,7 @@
 
 # Morgan Hurley 2017
-
-
 ## Jeopardy Game Project
+#### For our final project in the 2016-17 school year we decided to make a Jeopardy Game 
  
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic7.png "Logo title text 1")
 
