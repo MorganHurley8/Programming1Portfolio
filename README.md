@@ -17,6 +17,11 @@ We all contributed to the code. Each person wrote code for the parts concerning 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic5.png "Logo title text 1")
 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic6.png "Logo title text 1")
+![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic8.png "Logo title text 1")
+Here is how we organized the creation of our project.
+![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic9.png "Logo title text 1")
+These are the graphics we created in the beginning. It ended up looking a lot different than how we envisioned it to be. 
+![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic10.png "Logo title text 1")
 
  
 
