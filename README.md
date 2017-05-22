@@ -11,7 +11,7 @@ Each member of our group created 10 questions for the categories they were assig
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic2.png "Logo title text 1")
 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic3.png "Logo title text 1")
-We all contributed to the code. Each person wrote the code for the parts concerning their own categories. Some parts we all wrote together.
+We all contributed to the code. Each person wrote code for the parts concerning their own categories. Some parts we all wrote together.
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic4.png "Logo title text 1")
 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic5.png "Logo title text 1")
