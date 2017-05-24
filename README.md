@@ -5,7 +5,7 @@
 For our final project in the 2016-17 school year my group decided to make a Jeopardy Game. 
 ###### Other Group Members: Sarah Wallgren and Katya Pogodaeva
 contact me at:
-[I'm an inline-style link](https://mohurley2@gmail.com)
+[](https://mohurley2@gmail)
 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic7.png "Logo title text 1")
 As a group, we decided to implement 9 categories of 5 questions into our trivia game.  
