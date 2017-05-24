@@ -28,12 +28,15 @@ These are the graphics we created in the beginning. It ended up looking a lot di
 
 
 
-### Pig Latin Project
+### Pig Latin Sketch
 For this project I had to write a code that would take ordinary text and turn it into Pig Latin. Not only did the code have to translate the input, I also had to make it follow the grammar principles of Pig Latin
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic11.png "Logo title text 1")
-### Time Project
+### Time Sketch
 For this project I had to create a code that could calculate how much time has passed after a certain event. For example, it can calculate exactly how old a person is down to the minute.
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic12.png "Logo title text 1")
+### 99 Bottles Sketch
+For this project I had to create a program that would print the entire "99 Bottles" song in as few lines of code as possible.
+![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic13.png "Logo title text 1")
 
 
  
