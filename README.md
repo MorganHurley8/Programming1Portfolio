@@ -30,7 +30,11 @@ These are the graphics we created in the beginning. It ended up looking a lot di
 
 ### Pig Latin Project
 For this project I had to write a code that would take ordinary text and turn it into Pig Latin. Not only did the code have to translate the input, I also had to make it follow the grammar principles of Pig Latin
-![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic10.png "Logo title text 1")
+![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic11.png "Logo title text 1")
+### Time Project
+For this project I had to create a code that could calculate how much time has passed after a certain event. For example, it can calculate exactly how old a person is down to the minute.
+![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic12.png "Logo title text 1")
+
 
  
 
