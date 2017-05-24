@@ -26,6 +26,12 @@ Here is how we organized the creation of our project.
 These are the graphics we created in the beginning. It ended up looking a lot different than how we envisioned it to be. 
 ![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic10.png "Logo title text 1")
 
+
+
+### Pig Latin Project
+For this project I had to write a code that would take ordinary text and turn it into Pig Latin. Not only did the code have to translate the input, I also had to make it follow the grammar principles of Pig Latin
+![alt text](https://morganhurley8.github.io/Programming1Portfolio/pic10.png "Logo title text 1")
+
  
 
 
